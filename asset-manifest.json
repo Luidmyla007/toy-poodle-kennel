@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toy-poodle-kennel/static/css/main.7acaea2f.css",
+    "main.js": "/toy-poodle-kennel/static/js/main.07d3183d.js",
+    "index.html": "/toy-poodle-kennel/index.html",
+    "main.7acaea2f.css.map": "/toy-poodle-kennel/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/toy-poodle-kennel/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
